@@ -30,7 +30,7 @@ Aqui estão algumas das habilidade que possuo:
 | --- | --- | --- |
 | Swift-Cargo | ![Screenshot.](https://a.imagem.app/bmkxyJ.jpeg) | **Html, Tailwind CSS, JavaScript** |
 | Artefato Arquitetura | ![Screenshot.](https://a.imagem.app/bmk5Hb.jpeg) | **Html, Tailwind CSS, JavaScript** |
-| MyFood | ![Screenshot.](https://a.imagem.app/bmkdTS.png) | **Html, Laravel, Tailwind CSS, JavaScript** |
+| MyFood | ![Screenshot.](https://a.imagem.app/bmkdTS.png) | **Html, PHP, Laravel, Tailwind CSS, JavaScript** |
 
 
 ## 🔗 Contato
