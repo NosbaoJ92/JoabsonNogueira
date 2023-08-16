@@ -2,7 +2,7 @@
 # Olá, eu sou a Joabson Nogueira! 👋
 
 ## 🚀 Sobre mim
-Sou estudante de ensino técnico de Desenvolvimento de Sistemas (FullStack), mas aqui deixo alguns projetos desenvolvidos com foco em Front-End.
+Sou estudante de ensino técnico em Desenvolvimento de Sistemas, aqui deixo alguns projetos desenvolvidos com foco em Front-End.
 Aqui no meu GitHub, deixei alguns projetos desenvolvidos de minha autoria e algumas produzidos em sala de aula.
 
 
