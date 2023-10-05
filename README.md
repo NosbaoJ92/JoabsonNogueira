@@ -21,7 +21,7 @@ Aqui estão algumas das habilidade que possuo:
 
 ## Projetos Desenvolvidos
 
-- [Artefato Arquitetura](https://artefatoarquitetura.netlify.app/)
+- [Bruno Licate Arquitetura](https://brunolicatearquitetura.com/)
 - [Swift Cargo](https://swift-cargo.netlify.app/)
 
 
@@ -29,7 +29,7 @@ Aqui estão algumas das habilidade que possuo:
 | **Projeto.** | **Screenshot** | **Tecnologias** |
 | --- | --- | --- |
 | Swift-Cargo | ![Screenshot.](https://a.imagem.app/bmkxyJ.jpeg) | **Html, Tailwind CSS, JavaScript** |
-| Artefato Arquitetura | ![Screenshot.](https://a.imagem.app/bmk5Hb.jpeg) | **Html, Tailwind CSS, JavaScript** |
+| Artefato Arquitetura (old) | ![Screenshot.](https://a.imagem.app/bmk5Hb.jpeg) | **Html, Tailwind CSS, JavaScript** |
 | MyFood | ![Screenshot.](https://a.imagem.app/bmkdTS.png) | **PHP, Laravel, Tailwind CSS, JavaScript, PhpMyAdmin** |
 
 
