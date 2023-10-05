@@ -2,7 +2,8 @@
 # Olá, eu sou a Joabson Nogueira! 👋
 
 ## 🚀 Sobre mim
-Sou estudante de ensino técnico em Desenvolvimento de Sistemas, aqui deixo alguns projetos desenvolvidos com foco em Front-End.
+Sou estudante de ensino superior (EAD) em Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Sá e de ensino técnico em Desenvolvimento de Sistemas na ETEC Dra Ruth Cardoso em São Vicente.
+Aqui deixo alguns projetos desenvolvidos com foco em Front-End, mas sem deixar de estudar o backend.
 Aqui no meu GitHub, deixei alguns projetos desenvolvidos de minha autoria e algumas produzidos em sala de aula.
 
 
